@@ -5,7 +5,16 @@
     "paths": {
       "@/*": [
         "./*"
-      ]
+      ],
+      "~/realmDB/*": [
+        "./realmDB/*"
+      ],
+      "~/realmDB/model/*": [
+        "./realmDB/model/*"
+      ],
+      "~/realmDB/repository/*": [
+        "./realmDB/repository/*"
+      ],
     }
   },
   "include": [
